@@ -1,4 +1,4 @@
-# CircleCI Step by Step Application using Maven and Spring 
+# CircleCI Step by Step Application using Maven and Spring 　
 [![CircleCI](https://circleci.com/gh/kurumai/circleci-step-by-step/tree/master.svg?style=svg)](https://circleci.com/gh/kurumai/circleci-step-by-step/tree/master)
 
 This is an example application how to learn CircleCI step by step.
